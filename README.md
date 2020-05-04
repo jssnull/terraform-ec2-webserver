@@ -32,7 +32,8 @@ Terraform will perform the following actions:
       ...
   }
 
-# Run "terraform apply", it will show you the terraform plan again, if fits with your provisioning plan, Enter value: "yes" and the provisioning will start
+# Run "terraform apply", it will show you the terraform plan again, 
+# if fits with your provisioning plan, Enter value: "yes" and the provisioning will start
 
 #Example:
 ➜  terraform apply
@@ -50,7 +51,7 @@ Terraform will perform the following actions:
       ...
       ...
   }
-  
+
   Plan: 1 to add, 0 to change, 0 to destroy.
 
 Do you want to perform these actions?
